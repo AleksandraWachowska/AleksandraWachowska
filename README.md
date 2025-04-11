@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AleksandraWachowska
 - 👀 I’m interested in biotechnology, fantasy, video games
-- 🌱 I’m currently learning python
+- 🌱 I’m currently exploring HTML, CSS and Java
 - 💞️ I’m looking to collaborate on bioinformatics projects
 - 📫 How to reach me: ola.wachowska4@gmail.com
 - ⚡ Fun fact: started using computer by playing The Sims
